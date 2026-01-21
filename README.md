@@ -1,5 +1,5 @@
 # Interoperable_Calculator
--_-_-_-_-_-_-_Skills Implemented __-_------
+-_-_-_-_-_-_-_Skills Implemented _-_------
 This software covers Algorithm implementation, Interoperability: Cross-language integration, Api communication and design, Implementing and Debugging pipelines, Full-stack; client side and server side operations
 
 -_-_-_-_-_-_-_Exlpanation__-_-_-_-_-_-_-
