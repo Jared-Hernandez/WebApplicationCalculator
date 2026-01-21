@@ -9,7 +9,7 @@ C is the computational engine, coded with a custom tokenizer and expression pars
 
 Python handles middleware, performs graphing via matplotlib, and leverages Python's Foreign Function Interface to load the compiled C shared library using ctypes, and FASTapi to transfer data from the backend to the web application front end.
 
-the front end is a is a Single Page Application that dynamically updates its contents without page reloads and renders results and graphs interactively for a better user experience. Sends user's graph and data input to the backend.
+the front end is a Single Page Application that dynamically updates its contents without page reloads and renders results and graphs interactively for a better user experience. Sends user's graph and data input to the backend.
 
 
 -_-_-_-_-_-_-_Data Flow__-_-_-_-_-_-_-
