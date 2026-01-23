@@ -14,11 +14,9 @@ the front end is a Single Page Application that dynamically updates its contents
 
 -_-_-_-_-_-_-_Data Flow__-_-_-_-_-_-_-
 
-Arithmetic service: 
-User input in React -> convert to JSON -> FASTapi(python) -> perform Ctype / FFI -> char * (result) -> FASTapi(python) -> React
+Arithmetic service: React -> convert to JSON -> FASTapi(python) -> perform Ctype / FFI -> char * (result) -> FASTapi(python) -> React
 ___________________________________________________________________________________________________
-Graphing service: 
-User input in React -> convert to JSON -> FASTapi(python) -> perform matplotlib -> graphing solution as an image -> FASTapi (python) -> React 
+Graphing service: React -> convert to JSON -> FASTapi(python) -> perform matplotlib -> graphing solution as an image -> FASTapi (python) -> React 
 
 
 -_-_-_-_-_-_-_How to Run__-_-_-_-_-_-_-
