@@ -5,7 +5,7 @@ This software covers Algorithm implementation, Interoperability: Cross-language 
 -_-_-_-_-_-_-_Exlpanation__-_-_-_-_-_-_-
 This software project is a dynamic graphing and arithmetic calculator built using C, Python, and React (JSX), designed to demonstrate cross-language interoperability, performance-oriented computation, and modern web application architecture.
 
-C is the computational engine, coded with a custom tokenizer and expression parser (Shunting Yard algorithm) for evaluation. C is implemented for efficient performance, manual memory management, and fine-grained low-level control
+C is the computational engine, coded with a custom tokenizer and expression parser (Shunting Yard algorithm) for evaluating user input. C is implemented for efficient performance, manual memory management, and fine-grained low-level control
 
 Python handles middleware, performs graphing via matplotlib, and leverages Python's Foreign Function Interface to load the compiled C shared library using ctypes, and FASTapi to transfer data from the backend to the web application front end.
 
