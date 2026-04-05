@@ -36,3 +36,6 @@ this produces a .dll, a dynamic linked library, move/ copy calculator.dll file i
     pip install fastapi uvicorn
     python -m uvicorn main:app --reload
 for back end^ in python folder
+
+    copy entire folder to another folder
+Copy-Item -Path "*" -Destination "C:\desinationname" -Recurse -Force
